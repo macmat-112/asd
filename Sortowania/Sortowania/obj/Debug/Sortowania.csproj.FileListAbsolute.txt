@@ -1,0 +1,10 @@
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\bin\Debug\Sortowania.exe.config
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\bin\Debug\Sortowania.exe
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\bin\Debug\Sortowania.pdb
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\obj\Debug\Sortowania.csproj.AssemblyReference.cache
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\obj\Debug\Sortowania.Form1.resources
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\obj\Debug\Sortowania.Properties.Resources.resources
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\obj\Debug\Sortowania.csproj.GenerateResource.cache
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\obj\Debug\Sortowania.csproj.CoreCompileInputs.cache
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\obj\Debug\Sortowania.exe
+C:\Users\Monodii\source\repos\Sortowania\Sortowania\obj\Debug\Sortowania.pdb
