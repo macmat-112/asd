@@ -1,5 +1,6 @@
 Zrób program demonstrujący działanie list dwukierunkowych.
 Stwórz klasy: lista i node, możliwość dodawania, usuwania, przechodzenia i wyświetlania danych.
+    
     internal class Node
     {
         public Node Next;
