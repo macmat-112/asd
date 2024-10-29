@@ -1,0 +1,10 @@
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe.config
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.pdb
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csproj.AssemblyReference.cache
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.Form1.resources
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.Properties.Resources.resources
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csproj.GenerateResource.cache
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csproj.CoreCompileInputs.cache
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.exe
+C:\Users\Monodii\source\repos\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.pdb
