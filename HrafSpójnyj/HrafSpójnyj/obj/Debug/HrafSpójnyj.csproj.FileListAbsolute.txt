@@ -1,0 +1,10 @@
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\bin\Debug\HrafSpójnyj.exe.config
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\bin\Debug\HrafSpójnyj.exe
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\bin\Debug\HrafSpójnyj.pdb
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\obj\Debug\HrafSpójnyj.csproj.AssemblyReference.cache
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\obj\Debug\HrafSpójnyj.Form1.resources
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\obj\Debug\HrafSpójnyj.Properties.Resources.resources
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\obj\Debug\HrafSpójnyj.csproj.GenerateResource.cache
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\obj\Debug\HrafSpójnyj.csproj.CoreCompileInputs.cache
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\obj\Debug\HrafSpójnyj.exe
+C:\Users\Monodii\source\repos\HrafSpójnyj\HrafSpójnyj\obj\Debug\HrafSpójnyj.pdb
