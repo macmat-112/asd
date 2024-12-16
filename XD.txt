@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace huff1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        // Dodawanie do kolejki
+        public void Put(char value, int priority, SortedDictionary<int, Queue<char>> priorityQueue)
+        {
+            if (!priorityQueue.ContainsKey(priority)) priorityQueue[priority] = new Queue<char>();
+            priorityQueue[priority].Enqueue(value);
+        }
+
+        // Zabieranie z kolejki
+        public char Get(SortedDictionary<int, Queue<char>> priorityQueue)
+        {
+            if (priorityQueue.Count == 0) throw new InvalidOperationException("Queue is empty.");
+            var firstKey = priorityQueue.Keys.Min();
+            var value = priorityQueue[firstKey].Dequeue();
+            if (priorityQueue[firstKey].Count == 0) priorityQueue.Remove(firstKey);
+            return value;
+        }
+
+        public void zapHuff(string input)
+        {
+            int len = input.Length;
+            var priorityQueue = new SortedDictionary<int, Queue<char>>();
+            HashSet<char> includes = new HashSet<char>();
+            for (int i = 0; i < len; i++)
+            {
+                char j = input[i];
+                
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
