@@ -1,0 +1,10 @@
+C:\Users\Monodii\source\repos\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\Monodii\source\repos\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\Monodii\source\repos\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Monodii\source\repos\Huffman\Huffman\obj\Debug\Huffman.csproj.AssemblyReference.cache
+C:\Users\Monodii\source\repos\Huffman\Huffman\obj\Debug\Huffman.Form1.resources
+C:\Users\Monodii\source\repos\Huffman\Huffman\obj\Debug\Huffman.Properties.Resources.resources
+C:\Users\Monodii\source\repos\Huffman\Huffman\obj\Debug\Huffman.csproj.GenerateResource.cache
+C:\Users\Monodii\source\repos\Huffman\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Monodii\source\repos\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\Monodii\source\repos\Huffman\Huffman\obj\Debug\Huffman.pdb
