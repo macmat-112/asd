@@ -1,0 +1,10 @@
+C:\Users\Monodii\source\repos\NWP\NWP\bin\Debug\NWP.exe.config
+C:\Users\Monodii\source\repos\NWP\NWP\bin\Debug\NWP.exe
+C:\Users\Monodii\source\repos\NWP\NWP\bin\Debug\NWP.pdb
+C:\Users\Monodii\source\repos\NWP\NWP\obj\Debug\NWP.csproj.AssemblyReference.cache
+C:\Users\Monodii\source\repos\NWP\NWP\obj\Debug\NWP.Form1.resources
+C:\Users\Monodii\source\repos\NWP\NWP\obj\Debug\NWP.Properties.Resources.resources
+C:\Users\Monodii\source\repos\NWP\NWP\obj\Debug\NWP.csproj.GenerateResource.cache
+C:\Users\Monodii\source\repos\NWP\NWP\obj\Debug\NWP.csproj.CoreCompileInputs.cache
+C:\Users\Monodii\source\repos\NWP\NWP\obj\Debug\NWP.exe
+C:\Users\Monodii\source\repos\NWP\NWP\obj\Debug\NWP.pdb
